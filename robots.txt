@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://burister.github.io/sitemap.html.gz
+Sitemap: https://burister.github.io/app/sitemap.html.gz
+Sitemap: https://burister.github.io/assets/sitemap.html.gz
+Sitemap: https://burister.github.io/css/sitemap.html.gz
+Sitemap: https://burister.github.io/includes/sitemap.html.gz
+Sitemap: https://burister.github.io/item/sitemap.html.gz
+Sitemap: https://burister.github.io/src/sitemap.html.gz
